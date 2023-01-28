@@ -33,7 +33,7 @@ Figma
 
 ## program:
 
-'''
+```python
 /* home page */
 
 position: relative;
@@ -173,7 +173,7 @@ top: 83px;
 background: url(logo.jpg);
 transform: matrix(-1, 0, 0, 1, 0, 0);
 
-'''
+```
 
 ## OUTPUT:
 ![output](./to1.png)
